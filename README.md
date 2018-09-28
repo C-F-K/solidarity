@@ -74,7 +74,7 @@ Greed scoring takes place at the end of the game.
 Orgs score 1 point for each EcU in their stockpiles that they did not originally invent.
 Orgs score 3 points for each stockpile they own which is the largest of its kind.
 
-This means that under Greed rules, the most reliable ways to score are by attacking other orgs' stockpiles and seizing their resources.
+The org with the most points wins. This means that under Greed rules, the most reliable ways to score are by attacking other orgs' stockpiles and seizing their resources.
 > E.g. if West invents kittens, and North seizes control of them, North will score for each kitten they produce; the only way West can score for kittens is by having the most of them, and that can only give West a maximum of 3 points.
 
 ### **Solidarity**
